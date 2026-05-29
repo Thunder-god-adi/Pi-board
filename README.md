@@ -62,6 +62,7 @@ I built this keybaord i want to prove that i can also built something like thisa
 | **TOTAL**           |                 |            |     | **$99.20**  |             |
 **JLC CART**
 
-<img width="1671" height="763" alt="Screenshot 2026-03-10 142434" src="https://github.com/user-attachments/assets/ece4e606-5420-45d3-a0c7-9111e21c8d88" />
+<img width="1838" height="779" alt="Screenshot 2026-05-29 181318" src="https://github.com/user-attachments/assets/67468fbe-ec6f-4391-827a-de835c3379fa" />
 
-<img width="1127" height="699" alt="Screenshot 2026-03-10 142444" src="https://github.com/user-attachments/assets/841327b1-f0de-48ec-b733-e4b5afba6cc8" />
+<img width="1471" height="751" alt="image" src="https://github.com/user-attachments/assets/221e4bba-67aa-4c56-bf81-0a1cf448106b" />
+
