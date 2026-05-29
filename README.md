@@ -59,7 +59,7 @@ I built this keybaord i want to prove that i can also built something like thisa
 | Rotary encoder EC11 | Volume knob     | $1.90      | 1   | $1.90       | Amazon      | https://www.amazon.in/CentIoT-Encoder-Digital-Potentiometer-Control/dp/B0888RVZSN/ref=sr_1_2?crid=1O052ZHUZWRTI&dib=eyJ2IjoiMSJ9.cvB_S8-clwOY-fsh1jDEgX3I-TyaPGhd3iCZ3GX6_eVNqTFQ_8wSSmi1On-7sotSobE5H2o6_AdbzYdahHyzxVa2r98weRk7Xio0he5pwCPG3HprLqdHpm22K6901hNoEpE-hIGjlVB_5vPunDYkwwF-xJId0MWA8qBv0XmPnWoB6r2DHp8Y4YQ3xCR4cYbDpMEaPRt-TiNIJyYnxAqq45TIMvtyW55dE8gAhrPO1Tsw-1D0wNrqEAwxKJM0g31FXADWRofN-_3Ve-ysOmZnVKB2OWHzU1zumZQCo1mfBaE.hG0MUNhue4hmHgy-1sKEAq1MKh8FfEkSRrKNu_826tM&dib_tag=se&keywords=ec11&qid=1775385244&sprefix=%2Caps%2C418&sr=8-2
 | Raspberry Pi Pico   | Microcontroller | $5.00      | 1   | $5.00       | Robu      | https://robu.in/product/raspberry-pi-pico1
 | PCB                 | PCB             | $33.00     | 1   | $33.00      | JLC         |
-| **TOTAL**           |                 |            |     | **$99.20**  |             |
+| **TOTAL**           |                 |            |     | **$95.20**  |             |
 **JLC CART**
 
 <img width="1838" height="779" alt="Screenshot 2026-05-29 181318" src="https://github.com/user-attachments/assets/67468fbe-ec6f-4391-827a-de835c3379fa" />
