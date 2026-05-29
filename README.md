@@ -1,6 +1,6 @@
-## PHANTOM
+## Pi board
 
-Phantom is a 90% keycboard powered with Raspberry pico and rotary encoder 
+Pi board is a 90% keycboard powered with Raspberry pico and rotary encoder 
 
 
 - 88 keys with numpad 
@@ -14,38 +14,38 @@ I built this keybaord i want to prove that i can also built something like thisa
 
 ## SCHEMATICS
 
-<img width="1451" height="920" alt="Screenshot 2026-04-04 001010" src="https://github.com/user-attachments/assets/e2b4c94e-7001-42ee-ac1c-99bec79b0e98" />
+<img width="1451" height="920" alt="Screenshot 2026-04-04 001010" src="https://github.com/user-attachments/assets/64a2dd25-6b90-4889-9339-bad8a885dfd3" />
+
 
 
 ## PCB 
 
-<img width="1591" height="716" alt="Screenshot 2026-04-04 142751" src="https://github.com/user-attachments/assets/a675cab4-4931-4e4b-b4fb-e79b4ffd8dd9" />
+<img width="1591" height="716" alt="Screenshot 2026-04-04 142751" src="https://github.com/user-attachments/assets/087747be-27a0-4886-9096-93b9b94ef8b8" />
 
-<img width="1581" height="674" alt="Screenshot 2026-04-04 143630" src="https://github.com/user-attachments/assets/aa089b04-fb59-4936-bf62-aeca83ecc618" />
+<img width="1616" height="657" alt="Screenshot 2026-04-04 143652" src="https://github.com/user-attachments/assets/62197a95-9f95-4346-824e-b8814544fbb1" />
 
-<img width="1616" height="657" alt="Screenshot 2026-04-04 143652" src="https://github.com/user-attachments/assets/b2cc33d3-5b9e-4ac2-a8a0-bf0e2845bcd9" />
+<img width="1581" height="674" alt="Screenshot 2026-04-04 143630" src="https://github.com/user-attachments/assets/99b5eb7c-85cd-4186-96c5-c6f84b9e5ba8" />
 
 
 ## CAD
 
 **TOP PLATE**
 
-<img width="1270" height="770" alt="Screenshot 2026-04-05 151554" src="https://github.com/user-attachments/assets/b9a6f700-6d1e-43af-83ca-7aa6ee20c57f" />
+<img width="1300" height="830" alt="Screenshot 2026-03-10 013304" src="https://github.com/user-attachments/assets/21bbf093-1570-41c6-aa29-a3a812dc67c7" />
 
 
 **BOTTOM PLATE **
 
-<img width="1262" height="795" alt="Screenshot 2026-04-04 153412" src="https://github.com/user-attachments/assets/a14c12f6-8c16-4dd7-86ac-aa3ebd071e73" />
+<img width="1904" height="852" alt="Screenshot 2026-03-09 223502" src="https://github.com/user-attachments/assets/61504765-7024-4400-b7f3-8852b91dfa12" />
 
 
 **ASSEMBLY**
 
-<img width="1276" height="779" alt="Screenshot 2026-04-05 151829" src="https://github.com/user-attachments/assets/f0e3693e-1400-4394-89de-30431a7f3e23" />
+<img width="1288" height="709" alt="Screenshot 2026-03-10 014947" src="https://github.com/user-attachments/assets/9f3fe731-39b5-49ec-9947-c29c48d9d957" />
 
 **DRC**
 
-<img width="712" height="603" alt="Screenshot 2026-03-10 141104" src="https://github.com/user-attachments/assets/70e6a36f-2086-40d2-b207-b8ffc5baeab7" />
-
+<img width="712" height="603" alt="Screenshot 2026-03-10 141104" src="https://github.com/user-attachments/assets/b9439903-f3df-4b28-a48b-cb198223fd40" />
 
 
 **BOM**
